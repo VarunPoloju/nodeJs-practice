@@ -10,6 +10,16 @@
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.15",
-    "slugify": "^1.6.2"
-  }
+    "slugify": "^1.6.2",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarunPoloju/nodeJs-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VarunPoloju/nodeJs-practice/issues"
+  },
+  "homepage": "https://github.com/VarunPoloju/nodeJs-practice#readme"
 }
